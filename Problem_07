@@ -4,6 +4,6 @@ void main() {
     for (int i = 1; i <= 10; i++) {
       print('$num x $i = ${num * i}');
     }
-    print(''); // Adds an empty line between tables
+    print('');
   }
 }
